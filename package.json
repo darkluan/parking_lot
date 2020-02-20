@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/darkluan/parking_lot_nodejs.git"
+    "url": "git+https://github.com/darkluan/parking_lot.git"
   },
   "author": "luanpb",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/darkluan/parking_lot_nodejs/issues"
+    "url": "https://github.com/darkluan/parking_lot/issues"
   },
-  "homepage": "https://github.com/darkluan/parking_lot_nodejs#readme",
+  "homepage": "https://github.com/darkluan/parking_lot#readme",
   "devDependencies": {
     "jest": "^25.1.0"
   }
