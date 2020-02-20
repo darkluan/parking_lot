@@ -1,5 +1,4 @@
-# parking_lot_nodejs
-Build app parking lot with nodejs.
+# Build app parking lot with nodejs.
 
 # Run app
 1. Run file parking_lot.js: 
